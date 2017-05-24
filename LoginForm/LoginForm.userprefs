@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{2875AA55-1CDB-43DD-85DD-FC6CE5DD2ED3}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="LoginForm/LoginFormPage.xaml.cs" Line="17" Column="1" />
+      <File FileName="LoginForm/ViewModel/LoginFormPageViewModel.cs" Line="54" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.LoginForm.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8E2A1ECD-2EC7-4BFF-8C38-47F43B96387D" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.LoginForm.Droid PreferredExecutionTarget="Android.192.168.56.101:5555" />
+</Properties>
